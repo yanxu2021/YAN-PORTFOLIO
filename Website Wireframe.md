@@ -7,3 +7,12 @@ This discipline is created by L. te Pas. A former student from Harvard.
 
 ## Wireframe.cc | The go-to free, online wireframing tool.
 Wireframes for any screen. Create wireframes for the web, mobile devices or any custom screen. ... A basic version of the wireframing app is available for free.
+
+## UI Design
+<br>
+![img](https://github.com/yanxu2021/YAN-PORTFOLIO/blob/main/img/1.png)
+</br>
+<br>
+![img](https://github.com/yanxu2021/YAN-PORTFOLIO/blob/main/img/2.png)
+</br>
+
