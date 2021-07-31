@@ -10,9 +10,9 @@ Wireframes for any screen. Create wireframes for the web, mobile devices or any 
 
 ## UI Design
 <br>
-![img](https://github.com/yanxu2021/YAN-PORTFOLIO/blob/main/img/1.png)
+![img]url(https://github.com/yanxu2021/YAN-PORTFOLIO/blob/main/img/1.png)
 </br>
 <br>
-![img](https://github.com/yanxu2021/YAN-PORTFOLIO/blob/main/img/2.png)
+![img]url(https://github.com/yanxu2021/YAN-PORTFOLIO/blob/main/img/2.png)
 </br>
 
