@@ -17,3 +17,7 @@ Free Templates, HTML Templates, Personal Templates, Portfolio Templates
 
 ## What are wireframes
 https://balsamiq.com/learn/articles/what-are-wireframes/
+
+## 重点是project display area
+- Focus on one project (current and passion)
+- Feedback-(set up form to get feedback from the visitors about the project.)-->improvement
